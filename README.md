@@ -3,7 +3,8 @@ Responsive Web Design Project - A Product Landing Page created about Crunchyroll
 
 First Ever Product Landing Page.
 
-Click [here](https://codepen.io/richnguyen/pen/KKvwNmV) to go to the Editor Page. 
+Click [here](https://codepen.io/richnguyen/pen/KKvwNmV) to go to the Editor Page.
+Click [here](https://codepen.io/richnguyen/full/KKvwNmV) for Full-Preview.
 
 [Product Landing Page Link](https://codepen.io/richnguyen/full/KKvwNmV)
 
